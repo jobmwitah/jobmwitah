@@ -29,7 +29,7 @@
 
 <!-- Profile to views -->
 <p align="center">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=MwitahJob&color=a177fe&style=for-the-badge"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ItsMwitah&color=a177fe&style=for-the-badge"/>
 </p>
 
 ## 🔥 Github stats
