@@ -6,21 +6,21 @@
 
 <!-- Typing SVG -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A177FE&center=true&width=480&lines=%3C+Living+the+life+I+imagined+%3E;%3C+Full-stack+solidity+developer+%3E;%3C+Blockchain+and+Web3.0%2C+WAGMI+!+%3E;%3C+Always+learning+new+stuff+%3E">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A177FE&center=true&width=480&lines=%3C+Living+the+life+I+imagined+%3E;%3C+Smart+Contract+Auditor+%3E;%3C+Web+Apps+Bug+Hunter+%3E;%3C+Blockchain+and+Web3.0%2C+WAGMI+!+%3E;%3C+Always+learning+new+stuff+%3E">
 </p>
 
 <!-- Social badges section -->
 <p align='center'>
-  <a href="https://www.linkedin.com/in/job-mwitah-675440284/">
-    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Mwitah | LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/MwitahJob">
+<!--   <a href="https://www.linkedin.com/in/job-mwitah-675440284/">
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/telegram.png?raw=true" alt="Mwitah | LinkedIn">
+  </a>&nbsp;&nbsp; -->
+  <a href="https://twitter.com/ItsMwitah">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Mwitah | Twitter">
   </a>&nbsp;&nbsp;
   <a href="mailto:jobmwitah@gmail.com">
     <img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Mwitah | Mail">
   </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/1062252068603170817">
+  <a href="https://discordapp.com/users/1189522740663816305">
     <img height="33" src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" alt="Mwitah | Discord" >
   </a>&nbsp;&nbsp;
 </p>
@@ -34,17 +34,17 @@
 
 ## 🔥 Github stats
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=MwitahJob&show_icons=true&theme=aura" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ItsMWitah&show_icons=true&theme=aura" />
   &nbsp;
-  <img width="40%" src="https://streak-stats.demolab.com?user=MwitahJob&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=ItsMwitah&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
 </p>
 
 <details align="center">
     <summary> <code>Click for More Stats</code> </summary>
     <br>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwitahJob&layout=compact&theme=aura" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMwitah&layout=compact&theme=aura" />
     &nbsp;
-    <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=MwitahJob&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
+    <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMwitah&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
 </details>
 
 ## 🛠️ My favorite tools
