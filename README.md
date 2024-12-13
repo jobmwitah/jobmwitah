@@ -1,6 +1,6 @@
 <h3 align="center">
   Hello World 🌏
-  Job Mwita Here
+  Job Mwitah Here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,10 +14,10 @@
 <!--   <a href="https://www.linkedin.com/in/job-mwitah-675440284/">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/telegram.png?raw=true" alt="Mwitah | LinkedIn">
   </a>&nbsp;&nbsp; -->
-  <a href="https://twitter.com/ItsMwitah">
+  <a href="https://twitter.com/jobmwitah">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Mwitah | Twitter">
   </a>&nbsp;&nbsp;
-  <a href="mailto:jobmwitah@gmail.com">
+  <a href="mailto:jobmwitah.web3@gmail.com">
     <img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Mwitah | Mail">
   </a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/1189522740663816305">
@@ -29,22 +29,22 @@
 
 <!-- Profile to views -->
 <p align="center">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ItsMwitah&color=a177fe&style=for-the-badge"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=jobmwitah&color=a177fe&style=for-the-badge"/>
 </p>
 
 ## 🔥 Github stats
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ItsMWitah&show_icons=true&theme=aura" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jobmwitah&show_icons=true&theme=aura" />
   &nbsp;
-  <img width="40%" src="https://streak-stats.demolab.com?user=ItsMwitah&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=jobmwitah&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
 </p>
 
 <details align="center">
     <summary> <code>Click for More Stats</code> </summary>
     <br>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMwitah&layout=compact&theme=aura" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobmwitah&layout=compact&theme=aura" />
     &nbsp;
-    <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMwitah&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
+    <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=jobmwitah&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
 </details>
 
 ## 🛠️ My favorite tools
