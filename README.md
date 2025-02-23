@@ -6,12 +6,12 @@
 
 <!-- Typing SVG -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A177FE&center=true&width=480&lines=%3C+Living+the+life+I+imagined+%3E;%3C+Smart+Contract+Programmer+%3E;%3C+FRont+End+Developer+%3E;%3C+Blockchain+and+Web3.0%2C+WAGMI+!+%3E;%3C+Always+learning+new+stuff+%3E">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A177FE&center=true&width=480&lines=%3C+Living+the+life+I+imagined+%3E;%3C+Smart+Contract+Programmer+%3E;%3C+Front+End+Developer+%3E;%3C+Blockchain+and+Web3.0%2C+WAGMI+!+%3E;%3C+Always+learning+new+stuff+%3E">
 </p>
 
 <!-- Social badges section -->
 <p align='center'>
-  <a href="https://www.linkedin.com/in/job-mwitah-675440284/">
+  <a href="https://www.linkedin.com/in/jobmwitah/">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/telegram.png?raw=true" alt="Mwitah | LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/jobmwitah">
