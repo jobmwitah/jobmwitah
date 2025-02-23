@@ -12,7 +12,7 @@
 <!-- Social badges section -->
 <p align='center'>
   <a href="https://www.linkedin.com/in/jobmwitah/">
-    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/telegram.png?raw=true" alt="Mwitah | LinkedIn">
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Mwitah | LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/jobmwitah">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Mwitah | Twitter">
